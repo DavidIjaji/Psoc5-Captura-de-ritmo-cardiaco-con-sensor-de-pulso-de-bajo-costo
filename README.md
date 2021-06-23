@@ -1,6 +1,6 @@
 # Psoc5-Captura-de-ritmo-cardiaco-con-sensor-de-pulso-de-bajo-costo
 
-Explicación del video aca: https://youtu.be/wMkVhjuWlGE
+Explicación del proyecto aca: https://youtu.be/wMkVhjuWlGE
 
 El circuito utilizado es este:
 
